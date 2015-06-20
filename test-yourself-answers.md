@@ -54,11 +54,18 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+The best ways to get help are from Google, stack overflow, and IRC.  You can also consult with fellow members of any developer communities for which you may be a part of (i.e meetup)
+*Contributed by [Nisha Prudhomme](http://github.com/Nisha318)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
+Girl Develop It! is the closest developer community to me.  Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
+
+*Contributed by [Nisha Prudhomme](http://github.com/Nisha318)*
 
 #### What online developer communities can you join?
 
@@ -198,7 +205,8 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
-
+The browser's Web Inspector provides tools that allow you to see the actual code that impacts each element on a webpage.  It also allows you to preview how edits would impact the appearance of the page.  In addition, the tool also allows you to view a timeline of network traffic and the resources that were downloaded in the course of accessing the webpage. 
+*Contributed by [Nisha Prudhomme](http://github.com/Nisha318)*
 
 #### What happens behind the scenes after you click "search" on google.com?
 
